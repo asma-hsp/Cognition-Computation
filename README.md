@@ -1,4 +1,4 @@
-# Cognition-Computation
+# Cognition and Computation
 Robust Image Classification with DBNs and CNNs
 
 This project explores image classification through the lens of visual concept learning, comparing two deep learning architectures: Deep Belief Networks (DBNs) and Convolutional Neural Networks (CNNs). Implemented in Python with PyTorch, the study not only evaluates classification performance on the Fashion MNIST dataset but also focuses on robustness under noise and adversarial conditions.
